@@ -32,9 +32,8 @@ require (
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/google/go-github/v35 v35.3.0
 	github.com/gopherjs/jquery v0.0.0-20191017083323-73f4c7416038
-	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-retryablehttp v0.6.8 // indirect
-	github.com/hashicorp/vault/api v1.2.0
+	github.com/hashicorp/vault/api v1.8.2
 	github.com/hexonet/go-sdk/v3 v3.5.2
 	github.com/jarcoal/httpmock v1.0.8 // indirect
 	github.com/jinzhu/copier v0.3.2
@@ -62,7 +61,7 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/vultr/govultr v1.1.1
 	github.com/xddxdd/ottoext v0.0.0-20210101073831-439879ee6281
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
 	google.golang.org/api v0.59.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
